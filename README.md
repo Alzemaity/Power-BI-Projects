@@ -1,4 +1,4 @@
-📊 Power BI Projects Portfolio
+# Power-BI-Projects-Portfolio
 👋 About This Repository
 
 This repository contains a collection of end-to-end Power BI projects demonstrating my skills in:
